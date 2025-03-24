@@ -1,7 +1,8 @@
 # Sanskrit Command-Line Interface (CLI)
 
-Welcome to the Sanskrit Command-Line Interface (CLI), a unique environment where traditional command-line operations are mapped to Sanskrit commands. This interface allows users to interact with the system using Sanskrit terminology, providing an immersive experience for those interested in the language. 
-A simple wrapper over our current command line to use Sanskrit keywords and execute. An attempt to run my hands through c++ and preserve the Sanskrit Language.
+Welcome to the Sanskrit Command-Line Interface (CLI), a unique environment where traditional command-line operations are mapped to Sanskrit commands. This interface allows users to interact with the system using Sanskrit terminology, providing an immersive experience for those interested in the language. <br/>
+A simple wrapper over our current command line to use Sanskrit keywords and execute. An attempt to run my hands through c++ and preserve the Sanskrit Language.<br/>
+Clone the repository and run the mysetup.exe to start playing around.
 
 ## Current Commands
 
