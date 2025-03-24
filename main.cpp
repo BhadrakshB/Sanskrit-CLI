@@ -27,7 +27,7 @@ int main() {
 
     while (1) {
         // Print the shell prompt
-        printf("sanskrit-shell> ");
+        printf("sanskrit-cli> ");
         fflush(stdout);
 
         // Read a line of input
